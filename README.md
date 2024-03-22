@@ -4,8 +4,7 @@ Our website offers a user-friendly interface and robust functionality. Additiona
 
 You can view our work at <a href="https://hotelcopodenieve2.000webhostapp.com/Proyecto-Reserva-de-Hotel-/Front-def/site/index.html">this link</a>.
 
-![image](https://github.com/cmGitHub192/Hotel-Booking-Website/assets/150628254/1fc73e42-b373-4678-81a9-414a1bfd2841)
-![image](https://github.com/cmGitHub192/Hotel-Booking-Website/assets/150628254/08f6dfbd-e548-42ec-b5fb-ad8fed45b298)
-![image](https://github.com/cmGitHub192/Hotel-Booking-Website/assets/150628254/1fe59732-c25e-44b3-8a0e-b710457c088a)
-![image](https://github.com/cmGitHub192/Hotel-Booking-Website/assets/150628254/64b18dcc-49ca-4047-8f72-615d76b0a1f4)
+![image](https://github.com/cmGitHub192/Hotel-Booking-Website/assets/150628254/0a8706f4-4e78-4ed4-a549-5cbd6c8261f8)
+![image](https://github.com/cmGitHub192/Hotel-Booking-Website/assets/150628254/07f130c3-cbc1-41d8-bcdb-915024e1752e)
+
 
